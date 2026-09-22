@@ -560,7 +560,7 @@ public sealed class ThresholdRunPrototype : MonoBehaviour
         var obj = new GameObject(name);
         obj.transform.SetParent(parent, false);
         var text = obj.AddComponent<Text>();
-        text.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        text.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
         text.fontSize = fontSize;
         text.color = color;
         text.alignment = alignment;
