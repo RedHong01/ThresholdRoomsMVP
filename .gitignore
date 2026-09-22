@@ -27,11 +27,15 @@ ExportedObj/
 *.user
 *.userprefs
 *.pidb
+*.pidb.meta
 *.pdb
+*.pdb.meta
 *.mdb
+*.mdb.meta
 *.opendb
 *.VC.db
 *.sln.docstates
+sysinfo.txt
 
 # Unity/editor package and crash output
 *.apk
