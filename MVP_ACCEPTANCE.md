@@ -2,6 +2,10 @@
 
 Use this checklist when running the prototype on each operating system. Record the Unity version and any Console errors beside each run.
 
+## Recorded smoke test
+
+- **2026-09-22 · macOS · Unity 6000.3.10f1:** clean project import, scene load, Play Mode render, T0 tutorial display, and first-movement advance to T1 passed. No new Console errors after the font and scene import fixes. Windows fresh-clone validation remains to be run on the Windows machine.
+
 ## Tutorial
 
 - [ ] T0 shows controls on a fresh run.
@@ -42,4 +46,3 @@ Use this checklist when running the prototype on each operating system. Record t
 - [ ] \`git status\` stays clean after import and play except expected user-authored changes.
 - [ ] No \`Library\`, \`Temp\`, \`Obj\`, \`Logs\`, \`UserSettings\`, \`Builds\`, \`WebGL\`, \`.app\`, \`.DS_Store\`, \`.icloud\`, \`._*\`, \`Thumbs.db\`, or \`Desktop.ini\` appears in Git status.
 - [ ] The working clone is outside iCloud Desktop on both systems.
-
