@@ -15,7 +15,7 @@ The route is fixed so the test is repeatable:
 
 Controls: \`WASD\` or arrow keys to move, \`Shift\` to sprint, hold \`E\` to collect, \`Esc\` to pause, \`Tab\` to skip the tutorial, and \`R\` to retry after a result.
 
-The scene is intentionally generated from placeholder geometry at runtime. The research sources, lore distinctions, and visual direction live in the linked Figma Week 1 deck; the runtime keeps only short room rules so the player can learn them through action.
+The scene is intentionally generated from placeholder geometry at runtime. The research sources, lore distinctions, and visual direction live in the [Figma Week 1 deck](https://www.figma.com/design/0tCbAiVUlrPId3RWd9LRif/Undergoing-Game-Projects?node-id=2099-76); the runtime keeps only short room rules so the player can learn them through action.
 
 ## Open locally
 
@@ -31,4 +31,3 @@ The root \`.gitignore\` and \`.gitattributes\` cover Unity generated folders, Ma
 ## Scope boundary
 
 This is an MVP prototype, not a finished replacement for Curtain. It is isolated in a new repository so the original Curtain project and its large build history remain intact.
-
