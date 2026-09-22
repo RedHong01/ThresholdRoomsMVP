@@ -68,6 +68,8 @@ System Volume Information/
 *.download
 * (conflicted copy)*
 * (recovered copy)*
+*conflicted copy*
+*recovered copy*
 *.icloud~
 *.icloud.tmp
 *~
