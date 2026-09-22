@@ -288,6 +288,7 @@ public sealed class ThresholdRunPrototype : MonoBehaviour
 
         var inBlackout = room == RoomId.Level0 && playerPosition.x > -13.5f && playerPosition.x < -11.1f;
         worldDim.GetComponent<Image>().color = inBlackout ? new Color(0f, 0f, 0f, 0.48f) : new Color(0f, 0f, 0f, 0f);
+        worldDim.SetActive(inBlackout);
         if (!inBlackout && room == RoomId.Level0 && firstMoveSeen && !level0Shifted && playerPosition.x > -10.8f)
         {
             level0Shifted = true;
