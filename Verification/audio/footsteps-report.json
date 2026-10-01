@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "humanListeningValidated": false,
+  "montage": "/Users/redwang/Developer/ThresholdRoomsMVP/Verification/audio/footsteps-montage.wav",
+  "montageSequence": "player walk, pause, player walk, pause, player run, pause, player run, pause, hunter, pause, hunter",
+  "clips": [
+    {
+      "name": "player-walk",
+      "description": "Player / walk: soft, short sole transient",
+      "samples": 4851, "sampleRate": 44100,
+      "seconds": 0.110,
+      "peak": 0.332123, "rms": 0.067846,
+      "nonSilent": true, "noClipping": true,
+      "wav": "/Users/redwang/Developer/ThresholdRoomsMVP/Verification/audio/player-walk.wav"
+    },
+    {
+      "name": "player-run",
+      "description": "Player / run: sharper and louder sole impact",
+      "samples": 4190, "sampleRate": 44100,
+      "seconds": 0.095,
+      "peak": 0.463983, "rms": 0.102883,
+      "nonSilent": true, "noClipping": true,
+      "wav": "/Users/redwang/Developer/ThresholdRoomsMVP/Verification/audio/player-run.wav"
+    },
+    {
+      "name": "hunter",
+      "description": "Hunter: low hollow impact with metallic scrape tail",
+      "samples": 9702, "sampleRate": 44100,
+      "seconds": 0.220,
+      "peak": 0.891314, "rms": 0.181658,
+      "nonSilent": true, "noClipping": true,
+      "wav": "/Users/redwang/Developer/ThresholdRoomsMVP/Verification/audio/hunter.wav"
+    }
+  ],
+  "pairwise": "player-walk vs player-run: meanAbsDelta=0.081893, distinct=True\nplayer-walk vs hunter: meanAbsDelta=0.203024, distinct=True\nplayer-run vs hunter: meanAbsDelta=0.223883, distinct=True"
+}

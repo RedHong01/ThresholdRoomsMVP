@@ -1,0 +1,7 @@
+PASS
+Signals are non-silent, unclipped, and pairwise distinct at the sample level.
+This report does not replace human listening or final mix validation.
+
+player-walk vs player-run: meanAbsDelta=0.081893, distinct=True
+player-walk vs hunter: meanAbsDelta=0.203024, distinct=True
+player-run vs hunter: meanAbsDelta=0.223883, distinct=True

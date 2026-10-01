@@ -1,0 +1,5 @@
+time_s,event,detail,hunter_m,control
+3.000,shift_warning,"hum drops",3.00,WASD
+4.001,shift,"upper hall open",3.00,WASD
+6.000,hunter_released,"initial patrol",3.00,WASD
+6.588,outcome,"caught",0.58,WASD

@@ -1,0 +1,14 @@
+{
+    "passed": true,
+    "route": "caught",
+    "outcome": "Caught",
+    "control": "WASD",
+    "seconds": 6.588475704193115,
+    "reads": 0,
+    "keys": 0,
+    "windows": 0,
+    "hunterDoors": 0,
+    "roomDecisions": 0,
+    "shifts": 1,
+    "evidence": "Scripted player simulation; does not establish human playability or feedback."
+}

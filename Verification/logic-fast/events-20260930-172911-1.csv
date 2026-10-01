@@ -1,0 +1,39 @@
+time_s,event,detail,hunter_m,control
+0.352,noise,"running / heard",4.72,WASD
+0.692,noise,"running / out of range",6.50,WASD
+1.033,noise,"running / out of range",8.29,WASD
+1.550,noise,"running / out of range",10.90,WASD
+1.885,noise,"running / out of range",12.65,WASD
+2.332,noise,"running / out of range",14.90,WASD
+2.667,noise,"running / out of range",16.66,WASD
+3.000,noise,"running / out of range",18.42,WASD
+3.334,noise,"running / out of range",20.18,WASD
+3.672,noise,"running / out of range",21.96,WASD
+4.017,noise,"running / out of range",23.78,WASD
+4.351,noise,"running / out of range",25.08,WASD
+4.983,noise,"running / out of range",27.24,WASD
+5.317,noise,"running / out of range",28.95,WASD
+5.656,noise,"running / out of range",30.69,WASD
+6.000,noise,"running / out of range",32.46,WASD
+6.016,hunter_released,"initial patrol",32.54,WASD
+7.317,glass,"Level ! · Run",31.35,WASD
+7.317,noise,"glass / heard",31.35,WASD
+7.983,noise,"red corridor alarm / heard",31.26,WASD
+8.017,noise,"running / out of range",31.34,WASD
+8.350,noise,"running / out of range",32.20,WASD
+8.700,noise,"running / out of range",32.84,WASD
+9.034,noise,"running / out of range",33.54,WASD
+9.201,shift_warning,"hum drops",33.89,WASD
+9.370,noise,"running / out of range",34.26,WASD
+9.712,noise,"running / out of range",35.00,WASD
+10.050,noise,"running / out of range",35.74,WASD
+10.217,shift,"upper hall open",35.29,WASD
+11.068,glass,"Level ! · Run",33.00,WASD
+11.068,noise,"glass / heard",33.00,WASD
+11.766,noise,"running / out of range",32.92,WASD
+12.099,noise,"running / out of range",33.79,WASD
+12.450,noise,"running / out of range",34.61,WASD
+12.783,noise,"running / out of range",35.48,WASD
+13.117,noise,"running / out of range",36.34,WASD
+13.233,shift_warning,"hum drops",36.64,WASD
+13.267,outcome,"fast_escape",36.69,WASD

@@ -1,0 +1,14 @@
+{
+    "passed": true,
+    "route": "fast",
+    "outcome": "Escaped",
+    "control": "WASD",
+    "seconds": 13.26658821105957,
+    "reads": 0,
+    "keys": 0,
+    "windows": 2,
+    "hunterDoors": 0,
+    "roomDecisions": 4,
+    "shifts": 1,
+    "evidence": "Scripted player simulation; does not establish human playability or feedback."
+}

@@ -1,0 +1,2 @@
+run_id,timestamp,control,outcome,total_s,step,t_s,from,to,exit,hunter_m,hunter_state,seconds_in_room,read,keys
+20260930-172735-1,2026-09-30T17:27:35,WASD,caught,6.6,0,,,,,,,,,

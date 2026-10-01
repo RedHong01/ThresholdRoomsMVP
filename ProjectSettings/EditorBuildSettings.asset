@@ -6,8 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/FP_FrontRooms.unity
+    guid: 0e3eb606236af44f48672023114bda13
+  - enabled: 0
     path: Assets/Scenes/MVP_ThresholdRun.unity
     guid: a4c1a1de30b94b2c97075a62dd5ce6d2
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
-

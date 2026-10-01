@@ -1,0 +1,5 @@
+run_id,timestamp,control,outcome,total_s,step,t_s,from,to,exit,hunter_m,hunter_state,seconds_in_room,read,keys
+20260930-172320-1,2026-09-30T17:23:20,WASD,escaped,28.6,1,5.1,"Lobby","Level 0 · Shifting Rooms",HALL,11.7,Listen,5.1,1,0
+20260930-172320-1,2026-09-30T17:23:20,WASD,escaped,28.6,2,9.5,"Level 0 · Shifting Rooms","Level 4 · Office",HALL,15.6,Hunt,4.3,1,0
+20260930-172320-1,2026-09-30T17:23:20,WASD,escaped,28.6,3,15.1,"Level 4 · Office","Level ! · Run",DOOR,21.5,Listen,5.7,1,1
+20260930-172320-1,2026-09-30T17:23:20,WASD,escaped,28.6,4,27.1,"Level ! · Run","Exit · the noclip patch",WINDOW,10.7,Hunt,11.9,0,1

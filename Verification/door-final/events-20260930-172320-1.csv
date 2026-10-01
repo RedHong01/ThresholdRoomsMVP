@@ -1,0 +1,54 @@
+time_s,event,detail,hunter_m,control
+0.348,noise,"running / heard",4.76,WASD
+0.682,noise,"running / out of range",6.53,WASD
+0.765,read_started,"Lobby",6.88,WASD
+2.257,read,"Lobby",6.88,WASD
+3.008,shift_warning,"hum drops",6.88,WASD
+4.008,shift,"upper hall open",6.88,WASD
+4.450,noise,"running / out of range",8.25,WASD
+4.991,noise,"running / out of range",10.88,WASD
+5.324,noise,"running / out of range",12.63,WASD
+5.750,noise,"running / out of range",14.43,WASD
+6.008,hunter_released,"initial patrol",15.55,WASD
+6.083,noise,"running / out of range",15.73,WASD
+6.108,read_started,"Level 0 · Shifting Rooms",15.74,WASD
+7.604,read,"Level 0 · Shifting Rooms",12.59,WASD
+8.283,noise,"running / out of range",12.52,WASD
+8.616,noise,"running / out of range",13.40,WASD
+8.950,noise,"running / out of range",14.28,WASD
+9.282,noise,"running / out of range",15.13,WASD
+9.616,noise,"running / out of range",15.98,WASD
+9.950,noise,"running / out of range",15.65,WASD
+10.408,noise,"running / out of range",16.29,WASD
+10.549,read_started,"Level 4 · Office",16.56,WASD
+12.046,read,"Level 4 · Office",13.94,WASD
+12.747,noise,"running / out of range",15.40,WASD
+13.083,noise,"running / out of range",17.06,WASD
+13.258,noise,"key grabbed / out of range",17.97,WASD
+13.258,key,"Level 4 · Office",17.97,WASD
+13.941,noise,"running / out of range",18.55,WASD
+14.279,noise,"running / out of range",18.68,WASD
+14.612,noise,"running / out of range",18.96,WASD
+14.883,noise,"door opens / out of range",20.20,WASD
+14.883,door_opened,"Level 4 · Office",20.20,WASD
+14.979,noise,"running / out of range",20.71,WASD
+15.129,noise,"red corridor alarm / heard",21.50,WASD
+15.313,noise,"running / out of range",22.01,WASD
+15.939,noise,"door shuts / out of range",21.27,WASD
+22.799,shift_warning,"hum drops",5.26,WASD
+23.779,shift,"lower hall open",3.71,WASD
+24.071,noise,"running / heard",5.18,WASD
+24.404,noise,"running / out of range",6.90,WASD
+24.738,noise,"running / out of range",8.64,WASD
+25.071,noise,"running / out of range",10.39,WASD
+25.971,door_broken,"Level 4 · Office",12.01,WASD
+26.404,glass,"Level ! · Run",10.92,WASD
+26.404,noise,"glass / heard",10.92,WASD
+26.781,shift_warning,"hum drops",10.01,WASD
+27.086,noise,"running / out of range",10.78,WASD
+27.416,noise,"running / out of range",11.65,WASD
+27.770,noise,"running / out of range",12.51,WASD
+27.787,shift,"upper hall open",12.56,WASD
+28.105,noise,"running / out of range",13.35,WASD
+28.445,noise,"running / out of range",14.26,WASD
+28.583,outcome,"informed_escape",14.57,WASD
